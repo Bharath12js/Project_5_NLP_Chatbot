@@ -31,3 +31,7 @@ Using ngrok for HTTPS Tunneling:
 ngrok http 8000
 
 Note: Ngrok sessions may timeout; restart if a "session expired" message appears.
+
+
+OPEN YAM.HTML TO INTERACT AND TEST THE BOT
+
