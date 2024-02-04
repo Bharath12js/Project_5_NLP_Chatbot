@@ -1,0 +1,21 @@
+Nuevera Problem Statement-2 :Innovating AI-Driven Bots for Tailored 
+Customer Service and Effective Sales Engagement"
+
+SOLUTION BY TechMinds-AI:
+HAVE ASSUMED A COMPANY NAMED YumYumYay which is Nuevera Start and the goal is the design a chatbot for effective communucations and sales engagement.
+AIBOT name - SalCo-Ai
+
+YumYumYay Tech-Infused Culinary Experience Prototype Overview:
+
+> In this prototype, we've seamlessly integrated HTML, CSS, and JS for an intuitive front-end interface,
+> FastAPI for swift backend interactions.
+> MySQL for personalized data storage. 
+> AI-Chat bot is built using Dailogue Flow (NLP-bots training platform)
+
+Users are welcomed with a warm digital embrace, engaging in natural conversations that unveil their preferences. Navigating YumYumYay's menu is a visual delight, complemented by engaging banter and strategic sales integration. Our prototype aids decision-making and subtly guides users towards a satisfying culinary order. Behind the scenes, FastAPI orchestrates seamless interactions, while MySQL stores and retrieves user data for a personalized touch. This prototype ensures a delightful, tech-infused culinary journey without overshadowing the essence of YumYumYay's offerings. Stay tuned for more refinements as we craft a seamless feast for the senses. 🍲🔧 #YumYumTechDemo #FlavorfulInnovation
+
+
+Whats New?
+> Not used any pretrained models.. have created a full fleged Bot from scratch.
+> Simple approach and Simple Prototype which has very minimum amount of code.
+
