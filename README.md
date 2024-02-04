@@ -1,5 +1,5 @@
 # TechMinds-AI
-
+OPEN YAM.HTML TO INTERACT WITH BOT
 Directory Structure:
 - backend: Python FastAPI backend code.   -files for backend -> main.py, db_helper,generic_helper;
 - db: Database dump for MySQL (import using MySQL Workbench).    food.sql
