@@ -1,10 +1,10 @@
 # TechMinds-AI
 
 Directory Structure:
-- backend: Python FastAPI backend code.
-- db: Database dump for MySQL (import using MySQL Workbench).
-- dialogflow_assets: Training phrases and intents for Dialogflow.
-- frontend: Code for the website.
+- backend: Python FastAPI backend code.   -files for backend -> main.py, db_helper,generic_helper;
+- db: Database dump for MySQL (import using MySQL Workbench).    food.sql
+- dialogflow_assets: Training phrases and intents for Dialogflow.     - assets traing phases file
+- frontend: Code for the website.     - Yum.html images and stuff
 
 Module Installation:
 
